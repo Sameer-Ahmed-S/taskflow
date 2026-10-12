@@ -1,0 +1,4 @@
+# Local SQLite database files (runtime artifacts, not source)
+taskflow.db
+taskflow.db-wal
+taskflow.db-shm
